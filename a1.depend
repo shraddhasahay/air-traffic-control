@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1653400150 source:d:\cmrit\semester6\lab1-cg\a1\main.cpp
+1656966945 source:d:\cmrit\semester6\lab1-cg\a1\main.cpp
 	<stdio.h>
 	<GL/gl.h>
 	<GL/glut.h>
@@ -9,6 +9,7 @@
 	<time.h>
 	<GL/glut.h>
 	<stdlib.h>
+	<string.h>
 
 1341006776 c:\program files (x86)\codeblocks\mingw\include\stdio.h
 	<_mingw.h>
